@@ -33,7 +33,6 @@ export default class SectionPosts extends React.Component {
                                  </div>
                                  <div class="w-2/3 p-1 w3-container">
                                     <h3 class="text-black text-base w3-hide-medium  m-px ">title</h3>
-                                    <h1 class="text-black  mb-2 w3-hide-small bold text-xl">Who is responsible for the situation in Afghanistan?</h1>
                                     <span class="text-xs text-gray-500 block mb-5">Aug 26 2021 <span class="w3-padding">Read more</span></span>
                                  </div>
                               </Link>
