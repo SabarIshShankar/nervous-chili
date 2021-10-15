@@ -30,7 +30,7 @@ export default class SectionPosts extends React.Component {
                 <div class="mb-1">
                               <a href="/article/What-is-happening-in-Afghanistan" class="flex">
                                  <div class="w-1/3">
-                                    <img class="" src="https://cdn.pixabay.com/photo/2020/10/21/08/37/army-5672439__340.jpg" alt="" loading="lazy">
+                                    <img class="" src="https://cdn.pixabay.com/photo/2020/10/21/08/37/army-5672439__340.jpg" alt="" loading="lazy"/>
                                  </div>
                                  <div class="w-2/3 p-1 w3-container">
                                     <h3 class="text-black text-base w3-hide-medium  m-px ">The Taliban situation, what's happening</h3>
