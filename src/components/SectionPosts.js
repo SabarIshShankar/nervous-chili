@@ -32,7 +32,7 @@ export default class SectionPosts extends React.Component {
                                     <img class="" src="https://cdn.pixabay.com/photo/2020/10/21/08/37/army-5672439__340.jpg" alt="" loading="lazy"/>
                                  </div>
                                  <div class="w-2/3 p-1 w3-container">
-                                    <h3 class="text-black text-base w3-hide-medium  m-px ">title</h3>
+                                    <h3 class="text-black text-base w3-hide-medium  m-px ">{title}</h3>
                                     <span class="text-xs text-gray-500 block mb-5">Aug 26 2021 <span class="w3-padding">Read more</span></span>
                                  </div>
                               </Link>
