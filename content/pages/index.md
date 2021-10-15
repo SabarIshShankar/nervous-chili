@@ -4,7 +4,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: Understanding you is genuinely a trueblueidea
-    subtitle: '### This is a super-cool hero subhead.'
+    subtitle: |
+      ### Read articles
     image: images/avatar.png
     image_alt: Author avatar
   - title: Text
