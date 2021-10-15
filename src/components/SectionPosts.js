@@ -27,7 +27,7 @@ export default class SectionPosts extends React.Component {
                     {hasMoreLink && moreLinkText && <div className="text-link">{moreLinkText}</div>}
                 </div>
                 <div class="mb-1">
-                              <Link key={index} href={postUrl} className="article-teaser"="flex">
+                              <Link key={index} href={postUrl} className="article-teaser flex">
                                  <div class="w-1/3">
                                     <img class="" src="https://cdn.pixabay.com/photo/2020/10/21/08/37/army-5672439__340.jpg" alt="" loading="lazy"/>
                                  </div>
@@ -36,7 +36,7 @@ export default class SectionPosts extends React.Component {
                                     <h1 class="text-black  mb-2 w3-hide-small bold text-xl">Who is responsible for the situation in Afghanistan?</h1>
                                     <span class="text-xs text-gray-500 block mb-5">Aug 26 2021 <span class="w3-padding">Read more</span></span>
                                  </div>
-                              </a>
+                              </Link>
                 </div>
             </Link>
         );
