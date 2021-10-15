@@ -24,15 +24,6 @@ export default class Page extends React.Component {
                     </header>
                     {markdownContent && <div className="content">{markdownify(markdownContent)}</div>}
                 </section>
-                <section className="page">
-                    <header className="hero">
-                        <div className="copy">
-                            <h1>{title}</h1>
-                            {subtitle && <h3>{htmlToReact(subtitle)}</h3>}
-                        </div>
-                    </header>
-                    {markdownContent && <div className="content">{markdownify(markdownContent)}</div>}
-                </section>
             </Layout>
         );
     }
