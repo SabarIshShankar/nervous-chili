@@ -26,19 +26,6 @@ export default class SectionPosts extends React.Component {
                     {excerpt && <p className="summary">{excerpt}</p>}
                     {hasMoreLink && moreLinkText && <div className="text-link">{moreLinkText}</div>}
                 </div>
-                <div class="mb-1">
-                              <Link key={index} href={postUrl} className="article-teaser flex">
-                                 <div class="w-1/3">
-                                     {thumbImage && <img src={withPrefix(thumbImage)} alt={thumbImageAlt} className="thumbnail" />}
-                                 </div>
-                                 <div class="w-2/3 p-1 w3-container">
-                                     <h2>{title}</h2>
-                    <h3 className="publish-date">Published on <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time></h3>
-                    {excerpt && <p className="summary">{excerpt}</p>}
-                    {hasMoreLink && moreLinkText && <div className="text-link">{moreLinkText}</div>}
-                                 </div>
-                              </Link>
-                </div>
             </Link>
         );
     }
