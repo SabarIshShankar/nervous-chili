@@ -38,7 +38,7 @@ export default class SectionPosts extends React.Component {
                                     <span class="text-xs text-gray-500 block mb-5">Aug 26 2021 <span class="w3-padding">Read more</span></span>
                                  </div>
                               </a>
-                </li>
+                </div>
             </Link>
         );
     }
