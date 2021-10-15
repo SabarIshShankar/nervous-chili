@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:description'
       value: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
 layout: post
-title: How will the world look like after the pandemic? New day new problems
+title: How will the world look like after the pandemic?
 ---
 ##### Will the world ever change?&#xA;
 
