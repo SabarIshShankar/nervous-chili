@@ -1,7 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
 import moment from 'moment-strftime';
-import "tailwindcss/tailwind.css"
 
 import { getPageUrl, Link, withPrefix } from '../utils';
 
