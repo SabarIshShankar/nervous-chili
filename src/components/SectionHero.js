@@ -17,7 +17,6 @@ export default class SectionHero extends React.Component {
         const subtitle = _.get(section, 'subtitle');
         return (
             <section id={sectionId} className="hero">
-                {(image || ava}
                 <div className="copy">
                     {title && <h1>{title}</h1>}
                     {subtitle && <div>{markdownify(subtitle)}</div>}
