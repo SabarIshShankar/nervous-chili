@@ -29,23 +29,14 @@ seo:
 layout: post
 title: How will the world look like after the pandemic? New day new problems
 ---
+##### Will the world ever change?&#xA;
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla orci diam, elementum consectetur elit non, tempus varius leo. In ut bibendum mauris. Vestibulum mattis pharetra enim. Maecenas ornare vulputate nisi sed condimentum. Fusce sit amet cursus nunc. Vivamus malesuada posuere mollis. Aliquam facilisis neque eget ligula aliquam consequat.
+##### Problems just don't have a set of perimeters, it sets it out to affect every corner of a sphere. Lists are defining each set of problems on various other platforms. From unemployment to poverty, everything is a deal. Graduates have to deal with the pressure of finding jobs, while companies that raise funding are firing people for no reason. Researches in solving mental health problems don't give an accurate solution. The common crowd, where everyone wants to do something different but all end up doing the same thing.
 
-![Block Image](/images/art.svg)
+##### These obviously are the small thorns on the surface, there are a lot more inside. Medical science, biological research, and few on the list have been doing great. As far as it does good to humans and eradicates the hard problems of life, it good.
 
-Pellentesque tempor aliquet dolor, ac consectetur lorem ornare id. Vestibulum sit amet facilisis elit, sit amet rhoncus felis. Nunc rhoncus porttitor sollicitudin. Quisque eu leo metus. Curabitur gravida nibh eu nunc tempus suscipit. Donec quis magna id lacus eleifend volutpat. Suspendisse ac mattis velit, vel sagittis metus. Etiam non massa eu lectus maximus elementum. Etiam id aliquet quam. Vestibulum id lacinia ex, in rutrum metus. Donec varius auctor ligula.
+##### This article makes no sense, probably because life doesn't make sense too. As said problems everywhere, even in dreams. Have you not been able to dream without hitting a roadblock?
 
-Sed sit amet enim placerat, faucibus nisl et, porta ipsum. Integer efficitur nulla id orci varius, in lobortis magna viverra. Praesent volutpat nunc velit, eget dignissim orci sagittis vitae. Aliquam erat volutpat. Praesent sollicitudin, enim nec interdum suscipit, ipsum augue varius massa, in vestibulum ante urna quis orci. Cras tristique mollis pellentesque. Sed maximus massa at nisl lobortis efficitur vel nec risus.
+##### What should we learn from all the list of problems that the humans of the earth face? If anyone wants to solve a problem, it doesn't have to be the big ones, just clearing our minds and getting out of the struggle is great. If possible helping a few people, even better.
 
-### This is a H3. Use it for subheads and subsections.
-
-Donec malesuada, augue eu blandit porta, metus metus auctor leo, non dapibus felis odio non tortor. Mauris sem orci, tristique eget [this is an inline link](https://www.google.com) placerat non, eleifend tempor dolor. Quisque sed nisl elit. Praesent pulvinar id urna quis cursus. In hac habitasse platea dictumst. Mauris sed odio magna. Duis felis turpis, posuere at erat nec, condimentum luctus nibh. Nam leo ante, tempor ut tellus vel, lacinia aliquam velit. Mauris ut purus in nisl suscipit feugiat.
-
-***
-
-Pellentesque tempor aliquet dolor, ac consectetur lorem ornare id. Vestibulum sit amet facilisis elit, sit amet rhoncus felis. Nunc rhoncus porttitor sollicitudin. Quisque eu leo metus. Curabitur gravida nibh eu nunc tempus suscipit. Donec quis magna id lacus eleifend volutpat. Suspendisse ac mattis velit, vel sagittis metus. Etiam non massa eu lectus maximus elementum. Etiam id aliquet quam. Vestibulum id lacinia ex, in rutrum metus. Donec varius auctor ligula.
-
->"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ultrices dignissim gravida. Curabitur pharetra turpis risus, eu bibendum ipsum maximus sed. Ut vel euismod elit. Proin neque erat, sagittis quis tortor ut, pharetra semper ligula. Nunc vehicula, diam in consectetur vestibulum, sem felis imperdiet nisi, ac interdum mi erat sit amet sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi ut nulla ornare, posuere ligula eget, convallis elit. Nullam cursus vel ex et lacinia. Nunc feugiat dictum purus, faucibus malesuada risus gravida a. Morbi a sagittis lectus. Nullam lacus mauris, luctus eget pharetra in, aliquet quis lorem. Morbi ornare rhoncus dapibus. Praesent eu ipsum a metus pretium dictum. Fusce egestas nibh mauris, at condimentum ex fringilla quis. Duis in accumsan orci. Morbi leo ligula, tincidunt ac diam ut, hendrerit lobortis metus."
-
-Sed sit amet enim placerat, faucibus nisl et, porta ipsum. Integer efficitur nulla id orci varius, in lobortis magna viverra. Praesent volutpat nunc velit, eget dignissim orci sagittis vitae. Aliquam erat volutpat. Praesent sollicitudin, enim nec interdum suscipit, ipsum augue varius massa, in vestibulum ante urna quis orci. Cras tristique mollis pellentesque. Sed maximus massa at nisl lobortis efficitur vel nec risus. Aenean tincidunt et lectus vel dapibus. Fusce pellentesque id felis id faucibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet nibh non elit vulputate placerat. Sed vitae lacinia ligula. Sed suscipit eu nulla sit amet feugiat. Nullam ut ultricies nulla, at convallis massa.
+##### There's risk involved when you try to do something great, like changing the world. The Stupidity it is. The stupidity you see around you, not from you.
