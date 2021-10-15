@@ -63,7 +63,9 @@ sections:
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet.
 seo:
   title: trueblueidea
-  description: The preview of the Vanilla theme
+  description: >-
+    Understanding you is genuinely a trueblueidea. True blue idea. Read the
+    latest news articles from all over the world
   extra:
     - name: 'og:type'
       value: website
