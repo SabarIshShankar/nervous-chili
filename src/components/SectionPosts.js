@@ -32,7 +32,10 @@ export default class SectionPosts extends React.Component {
                                     <img class="" src="https://cdn.pixabay.com/photo/2020/10/21/08/37/army-5672439__340.jpg" alt="" loading="lazy"/>
                                  </div>
                                  <div class="w-2/3 p-1 w3-container">
-                                    lass="w3-padding">Read more</span></span>
+                                     <h2>{title}</h2>
+                    <h3 className="publish-date">Published on <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time></h3>
+                    {excerpt && <p className="summary">{excerpt}</p>}
+                    {hasMoreLink && moreLinkText && <div className="text-link">{moreLinkText}</div>}
                                  </div>
                               </Link>
                 </div>
