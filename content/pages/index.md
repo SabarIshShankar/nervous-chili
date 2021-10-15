@@ -6,7 +6,6 @@ sections:
     title: Understanding you is genuinely a trueblueidea
     subtitle: |
       ### Read articles
-    image: images/avatar.png
     image_alt: Author avatar
   - title: Text
     section_id: intro
