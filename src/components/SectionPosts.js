@@ -29,7 +29,7 @@ export default class SectionPosts extends React.Component {
                 <div class="mb-1">
                               <Link key={index} href={postUrl} className="article-teaser flex">
                                  <div class="w-1/3">
-                                    <img class="" src="https://cdn.pixabay.com/photo/2020/10/21/08/37/army-5672439__340.jpg" alt="" loading="lazy"/>
+                                     {thumbImage && <img src={withPrefix(thumbImage)} alt={thumbImageAlt} className="thumbnail" />}
                                  </div>
                                  <div class="w-2/3 p-1 w3-container">
                                      <h2>{title}</h2>
